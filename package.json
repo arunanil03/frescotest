@@ -1,0 +1,19 @@
+{
+  "name": "frescos",
+  "version": "1.0.0",
+  "description": "my test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arunanil03/frescotest.git"
+  },
+  "author": "arunanil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arunanil03/frescotest/issues"
+  },
+  "homepage": "https://github.com/arunanil03/frescotest#readme"
+}
